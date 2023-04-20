@@ -1,0 +1,29 @@
+#img1{
+    height: 300px;
+    width: 450px;
+    border-radius: 50px
+}
+
+#head{
+    background: linear-gradient(rgb(189, 65, 189) 0%, rgb(59, 59, 145) 100%) ;
+}
+h3{
+    font-family: 'Fasthand', cursive;
+}
+
+h1{
+    font-size: 40px;
+    font-family: 'Fasthand', cursive;
+    font-weight: 20px;
+}
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+}
+.imfo{
+    font-family: 'Farsan', cursive;
+ }
+
+ #writing a{
+    text-decoration: none !important;
+ }
